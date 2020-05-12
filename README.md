@@ -9,7 +9,7 @@ designed. Please nte this example uses and requires Java 8 to work.
 
 
 Running the example from the command lin
--------------------
+------------------
 ```
 $ mvn jetty:run
 ```
